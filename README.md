@@ -18,7 +18,7 @@
 
 ![Parametros basicos](imagenes/parametros-basicos.png)
 
-- En el caso de esta practica escogeremos servidores de Asia ya que en los de america y estados unidos no hay tamaños economicos disponibles. En el apartado de redes solo cambiaremos la seguridad de Basico a Ninguno
+- En el caso de esta practica escogeremos servidores de Asia ya que en los de america y estados unidos no hay tamaños economicos disponibles.
 
 ![redes](imagenes/apartado-redes.png)
 
@@ -35,3 +35,15 @@
 ![Descargar ejecutable](imagenes/descargar-ejecutable.png)
 
 - En nuestra maqina deberemos descargar el remote desktop, y simplemente ejecutamos lo que se descargo de la maquina virtual
+
+ - Lo siguiente que haremos sera crear una segunda maquina virtual con las mismas configuraciones
+
+ - Ahora si podremos ejecutar lo que descargamos y podremos entrar a la maquina virtual
+
+ ![ejecucion maquina virtual](imagenes/ejecucion-maquina-virtual.png)
+
+ - Lo siguiente que haremos sera conectar en red las dos maquinas virtuales que acabamos de crear
+
+ - Bien ya hemos aprendido como crear dos maquinas virtuales y manipularlas por remote desktop
+ 
+
